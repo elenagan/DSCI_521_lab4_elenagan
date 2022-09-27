@@ -86,7 +86,7 @@ To render the HTML files we are going to create, the first step is to activate G
 
 ```
 
-<https://github.com/elenagan/DSCI_521_lab4_elenagan>
+<https://elenagan.github.io/DSCI_521_lab4_elenagan/>
 
 ```{block, type="alert alert-info"}
 #### Question 2
@@ -246,7 +246,8 @@ to the GitHub repository for this lab
 and paste the two links below this question.
 ```
 
-YOUR ANSWER GOES HERE
+1.  <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_elenagan/blob/master/my_document.html>
+2.  <https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_elenagan/blob/master/my_document.pdf>
 
 ```{block, type="alert alert-info"}
 #### Question 8
