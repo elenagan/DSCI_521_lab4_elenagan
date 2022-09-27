@@ -266,7 +266,9 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_elenagan/blob/master/About_Me.Rmd>
+
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_elenagan/blob/master/About_Me.html>
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
@@ -280,7 +282,10 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-YOUR ANSWER GOES HERE
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_elenagan/blob/master/About_Me.md>
+
+It is rendered like the rest of GitHub with a black background and all
+the nice markdown formatting showing up directly.
 
 ```{block, type="alert alert-info"}
 #### Question 10
@@ -307,7 +312,7 @@ rubric={mechanics:6}
 5. Activate GitHub pages and paste the link below.
 ```
 
-YOUR ANSWER GOES HERE
+<https://elenagan.github.io/DSCI_521_lab4_elenagan/my_dog_freya.html>
 
 ```{block, type="alert alert-info"}
 #### (Challenging) Question 11
