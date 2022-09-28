@@ -1,13 +1,15 @@
 ---
-title: "my_dog_freya"
+title: "My Dog"
 author: "Elena Ganacheva"
-format: html
+format: revealjs
 editor: visual
 ---
 
-## My Dog Freya
+## Freya
 
 ![](images/paste-D3733748.png)
+
+---
 
 ## How old is she in dog years?
 
@@ -17,6 +19,8 @@ dog_years <- 2.25 * 7
 paste("She is", dog_years, "years old in dog years")
 ```
 
+---
+
 ## Her likes
 
 -   Playtime
@@ -24,6 +28,8 @@ paste("She is", dog_years, "years old in dog years")
 -   Dog park
 -   People
 -   Walkies
+
+---
 
 ## Her likes Ranked
 
